@@ -9,3 +9,10 @@ Biasanya kita akan membuat object dengan memanggil function Constructor tersebut
 Cara ini mudah dilakukan ketika kode program aplikasi kita tidak terlalu besar <br>
 Namun saat kode program aplikasi kita semakin besar, akan semakin sulit melakukan hal ini, terutama kita harus tahu urutan object mana yang harus dibuat terlebih dahulu <br>
 Oleh karena itu, proses Dependency Injection sebenarnya bisa dipermudah dengan memanfaatkan library
+
+## Library Dependency Injection
+- https://github.com/google/wire
+- https://github.com/uber-go/fx 
+- https://github.com/golobby/container
+- Dan lain-lain
+
