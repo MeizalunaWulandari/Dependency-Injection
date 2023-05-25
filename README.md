@@ -19,3 +19,6 @@ Oleh karena itu, proses Dependency Injection sebenarnya bisa dipermudah dengan m
 Salah satu kenapa menggunakan Google Wire menjadi pilihan, karena saat ini Google Wire adalah library paling populer untuk melakukan Dependency Injection di Golang <br>
 Selain itu Google Wire merupakan library Dependency Injection yang berbasis compile, artinya kodenya akan di generate, bukan menggunakan reflection<br>
 Hal ini membuat Google Wire menjadi cepat, karena hasil kompilasinya adalah kode yang sudah di generate melakukan Dependency Injection, tanpa perlu reflection lagi
+
+## Membuat Project
+
