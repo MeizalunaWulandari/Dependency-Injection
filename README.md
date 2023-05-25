@@ -27,3 +27,12 @@ https://github.com/MeizalunaWulandari/golang-RESTful-API
 ```
 go get github.com/google/wire
 ```
+
+## Mengintall Wire
+Google Wire membutuhkan aplikasi command line wire untuk melakukan auto generate kode Dependency Injection ketika kita nanti membuat kode<br>
+Program ini kita perlu install manual di komputer kita dengan perintah
+```
+go install github.com/google/wire/cmd/wire@latest
+```
+Secara otomatis akan ada file binary di $GOPATH/bin/wire <br>
+Agar aplikasi command line tersebut bisa diakses, jangan lupa memasukan ke $PATH sistem operasi kita
