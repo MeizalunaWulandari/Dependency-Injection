@@ -23,3 +23,7 @@ Hal ini membuat Google Wire menjadi cepat, karena hasil kompilasinya adalah kode
 ## Membuat Project
 ### Clone Project Golang RESTful API
 https://github.com/MeizalunaWulandari/golang-RESTful-API
+### Menambahkan Dependency Google Wire
+```
+go get github.com/google/wire
+```
